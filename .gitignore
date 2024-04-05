@@ -2,5 +2,5 @@
 .env
 .venv
 .idea
-/xlsx_file/*
-/upload_csv/*
+/xlsx_file/*.csv
+/upload_csv/*.csv
