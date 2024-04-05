@@ -1,0 +1,6 @@
+/venv
+.env
+.venv
+.idea
+/xlsx_file/*
+/upload_csv/*
